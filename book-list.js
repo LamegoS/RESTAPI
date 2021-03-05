@@ -1,11 +1,3 @@
-const setEditModal = (isbn) => {
-    // We will implement this later
-}
-
-const deleteBook = (isbn) => {
-    // We will implement this later
-}
-
 const loadBooks = () => {
     const xhttp = new XMLHttpRequest();
 
